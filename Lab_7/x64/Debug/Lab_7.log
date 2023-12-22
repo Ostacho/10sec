@@ -1,0 +1,8 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab_7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AI_7.cpp
+D:\prog\AI\AI_7\Lab_7\AI_7.cpp(19,83): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\prog\AI\AI_7\Lab_7\AI_7.cpp(34,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\prog\AI\AI_7\Lab_7\AI_7.cpp(35,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\prog\AI\AI_7\Lab_7\AI_7.cpp(148,16): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\prog\AI\AI_7\Lab_7\AI_7.cpp(159,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab_7.vcxproj -> D:\prog\AI\AI_7\x64\Debug\AI_7.exe
